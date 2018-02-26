@@ -1,2 +1,4 @@
 // Write your code in this file!
-currentUser = 'Grace Hopper'
+const currentUser = 'Grace Hopper';
+
+const welcomeMessage = 'Grace Hopper';
